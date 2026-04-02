@@ -1,2 +1,3 @@
 # Improvements
-his is my first Repositoy
+This is my first Repositoy
+Author Kamal Soni
